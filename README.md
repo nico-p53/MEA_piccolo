@@ -3,7 +3,7 @@ Data and drafts for MEA spring 2024 meeting
 
 This project focuses on how changes in land affected by the Endangered Species Act impacts residential mobility in Michigan.
 
-This repository is primarily to organize my workflow for this project. Some files are too big (demographic data), and others are restricted use (Natureserve). Therefore, this project is not reproducible from the files in this repository alone. 
+This repository is primarily to organize my workflow for this project. Some files are too big (demographic data), and others are restricted use (NatureServe). Therefore, this project is not reproducible from the files in this repository alone. 
 
 The general workflow goes as follows:
 1. Stage one prep for both time periods (2000-2010, 2010-2020)
